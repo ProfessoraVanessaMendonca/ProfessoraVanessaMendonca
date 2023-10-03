@@ -1,0 +1,3 @@
+- 👋 Olá! Meu nome é Vanessa
+- 👀 Sou professora da escola Silva Jardim
+- 🌱 Leciono a disciplina de Tecnologia para o Ensino Médio,2ºA e 2ºB 
